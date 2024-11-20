@@ -1,1 +1,2 @@
 Code fromgithub
+This is more text of example.
